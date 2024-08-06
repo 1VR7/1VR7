@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Insurance automation**
 
-- 🌱 I’m currently learning **PEGA Software**
+- 🌱 I’m currently learning **Automation**
 
 - 🤝 I’m looking for help with **Business Analyst**
 
