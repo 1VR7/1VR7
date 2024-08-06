@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vineeth Raju</h1>
+<h1 align="center">Hi 👋, I am Vineeth Raju</h1>
 <h3 align="center">A passionate Business analyst, Data analyst from New york City</h3>
 
 - 🔭 I’m currently working on **Insurance automation**
