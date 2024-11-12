@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Automation**
 
-- 🤝 I’m looking for help with **Business Analyst**
+- 🤝 I’m looking for help with **Data Analyst**
 
 - 📫 How to reach me **sankevineethraju@gmail.com**
 
