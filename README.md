@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Vineeth Raju</h1>
 <h3 align="center">A passionate Business analyst, Data analyst from New york City</h3>
 
-- 🔭 I’m currently working on **Insurance automation**
+- 🔭 I’m currently working on **Healthcare**
 
 - 🌱 I’m currently learning **Automation**
 
-- 🤝 I’m looking for help with **Data Analyst**
+- 🤝 I’m looking for help with **Data Engineer**
 
 - 📫 How to reach me **sankevineethraju@gmail.com**
 
